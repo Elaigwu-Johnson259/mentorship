@@ -1,2 +1,3 @@
-# Acadex
-This is a school help system that easy the stress of result management
+# Mentorship
+You always find a man to man 
+this is my mentorship show up repository
